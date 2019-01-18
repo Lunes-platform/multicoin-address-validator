@@ -1,7 +1,9 @@
 # wallet-address-validator
 Simple wallet address validator for validating Bitcoin and other altcoins addresses in **Node.js and browser**. 
 
-Forked from [ryanralph/altcoin-address](https://github.com/ryanralph/altcoin-address).
+Forked from [christsim/multicoin-address-validator](https://github.com/christsim/multicoin-address-validator).
+
+CRC dependency version downgraded to 3.5.0 to avoid conflicts with webpack bundle generation.
 
 **File size is ~17 kB (minifed and gzipped)**.
 
