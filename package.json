@@ -30,7 +30,7 @@
     "browser",
     "nodejs"
   ],
-  "version": "0.3.8",
+  "version": "0.3.9",
   "author": "Felipe Matheus Rosa <felipe.mr89@gmail.com>",
   "homepage": "https://github.com/Lunes-platform/multicoin-address-validator/",
   "license": "MIT",
