@@ -1,5 +1,5 @@
 {
-  "name": "multicoin-address-validator",
+  "name": "lunes-address-validator",
   "description": "Multicoin address validator for Bitcoin and other Altcoins.",
   "keywords": [
     "ada",
@@ -30,9 +30,9 @@
     "browser",
     "nodejs"
   ],
-  "version": "0.3.7",
-  "author": "Chris <chris.tsim@gmail.com>",
-  "homepage": "https://github.com/christsim/multicoin-address-validator",
+  "version": "0.3.8",
+  "author": "Felipe Matheus Rosa <felipe.mr89@gmail.com>",
+  "homepage": "https://github.com/Lunes-platform/multicoin-address-validator/",
   "license": "MIT",
   "repository": {
     "type": "git",
